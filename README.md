@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **app development with flutter**
 
-- 🌱 I’m currently learning **cyber security and python**
+- 🌱 I’m studying **cyber security and python**
 
 - 💬 Ask me about **C++, competitive programming, android development**
 
