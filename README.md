@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRchshGDUFr3gWDEZEc9QttySpMbO5kv2WEWJrE8Ff00J2LUNwzuckAo6t2qku_vLWBqsc&usqp=CAU">
+<img align="right" alt="Coding" src="https://w7.pngwing.com/pngs/685/882/png-transparent-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text-reading.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaysingh2412&label=Profile%20views&color=0e75b6&style=flat" alt="udaysingh2412" /> </p>
 
